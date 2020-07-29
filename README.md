@@ -9,4 +9,4 @@ val textCanvas = TextCanvas()
 textCanvas.addString("别了，司徒雷登\n\n（一九四九年八月十四日）\n")
 textCanvas.writeTo(file)
 ```
-![](\temp.png)
+![](https://github.com/artharyoung/text2pic/blob/master/temp.png)
